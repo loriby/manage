@@ -6,7 +6,7 @@ import com.github.digital.security.common.biz.BaseBiz;
 import org.springframework.stereotype.Service;
 
 /**
- * @author ace
+ * @author
  * @create 2017/12/30.
  */
 @Service

@@ -3,7 +3,7 @@ package com.github.digital.security.sidecarclient.entity;
 /**
  * ${DESCRIPTION}
  *
- * @author yangyongjie
+ * @author
  * @create 2017-10-22 20:30
  */
 public class Message {

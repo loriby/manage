@@ -17,7 +17,7 @@ import tk.mybatis.mapper.entity.Example;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-07-01 20:32
  */
 @Controller

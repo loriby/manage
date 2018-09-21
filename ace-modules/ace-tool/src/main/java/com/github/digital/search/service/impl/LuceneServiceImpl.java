@@ -36,7 +36,7 @@ import org.springframework.stereotype.Service;
 /**
  * Description:luncene
  *
- * @author ace
+ * @author
  * @create 2017-06-06
  **/
 @Service

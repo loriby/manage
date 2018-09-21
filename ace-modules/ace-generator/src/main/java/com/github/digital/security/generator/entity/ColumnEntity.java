@@ -3,7 +3,7 @@ package com.github.digital.security.generator.entity;
 /**
  * 列的属性
  *
- * @author Mr.AG
+ * @author
  * @email 463540703@qq.com
  * @date 2017年08月25日
  */

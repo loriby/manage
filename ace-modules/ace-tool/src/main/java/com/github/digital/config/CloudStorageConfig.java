@@ -33,7 +33,7 @@ import java.io.Serializable;
 
 /**
  * 云存储配置信息
- * @author ace
+ * @author
  */
 @Configuration
 @ConfigurationProperties(prefix = "oss")

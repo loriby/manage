@@ -53,7 +53,7 @@ import java.util.List;
 /**
  * Description:lucene
  *
- * @author ace
+ * @author
  * @create 2017-05-18
  **/
 public class LuceneDao {

@@ -35,7 +35,7 @@ import org.apache.lucene.search.Query;
 /**
  * Description:query util
  *
- * @author ace
+ * @author
  * @create 2017-05-19
  **/
 public class QueryUtil {

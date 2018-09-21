@@ -5,7 +5,7 @@ import com.github.digital.security.common.vo.TreeNode;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-17 15:21
  */
 public class GroupTree extends TreeNode {

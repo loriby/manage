@@ -3,7 +3,7 @@ package com.github.digital.security.common.constant;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-14 8:36
  */
 public class UserConstant {

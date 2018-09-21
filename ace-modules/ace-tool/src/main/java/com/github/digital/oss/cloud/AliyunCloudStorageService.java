@@ -34,7 +34,7 @@ import java.io.InputStream;
 
 /**
  * 阿里云存储
- * @author ace
+ * @author
  */
 public class AliyunCloudStorageService extends CloudStorageService {
     private OSSClient client;

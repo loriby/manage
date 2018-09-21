@@ -1,27 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="be862e60-14a7-45b8-9e03-a9fbb9dd88f6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/ace-modules/target/" />
+=======
+    <list default="true" id="ad0f3062-9368-4a1a-b985-bf89c3819216" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitalSolution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DigitalSolution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/exception/JwtSignatureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/exception/JwtSignatureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/interceptor/OkHttpTokenInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/interceptor/OkHttpTokenInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/runner/AuthClientRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-client/src/main/java/com/github/digital/security/auth/client/runner/AuthClientRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/db/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/db/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/biz/ClientBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/biz/ClientBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/biz/ClientServiceBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/biz/ClientServiceBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/KeyConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/KeyConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/RedisConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/RedisConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/UserConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/UserConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/configuration/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/controller/ServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/controller/ServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/feign/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/feign/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/runner/AuthServerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/runner/AuthServerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-center/src/main/java/com/github/digital/security/center/CenterBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-center/src/main/java/com/github/digital/security/center/CenterBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/constant/UserConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/constant/UserConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/msg/ListRestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/msg/ListRestResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/msg/TableResultResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/msg/TableResultResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/rest/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/rest/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/service/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/util/EntityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/util/EntityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/util/ReflectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/util/ReflectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/web/ParameterRequestWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-common/src/main/java/com/github/digital/security/common/web/ParameterRequestWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-control/ace-monitor/src/main/java/com/github/digital/security/monitor/MonitorBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-control/ace-monitor/src/main/java/com/github/digital/security/monitor/MonitorBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-control/ace-trace/db/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ace-control/ace-trace/db/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-control/ace-trace/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ace-control/ace-trace/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-control/ace-trace/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ace-control/ace-trace/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/GatewayServerBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/GatewayServerBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/config/RouteConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/config/RouteConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/fallback/UserServiceFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/fallback/UserServiceFallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/feign/ILogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/feign/ILogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/feign/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/feign/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/filter/AccessGatewayFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/filter/AccessGatewayFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/utils/DBLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/utils/DBLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/db/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/db/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/AdminBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/AdminBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/ElementBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/ElementBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GateLogBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GateLogBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GroupBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GroupBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GroupTypeBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/GroupTypeBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/MenuBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/MenuBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/UserBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/UserBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/config/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/config/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/constant/AdminCommonConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/constant/AdminCommonConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/ElementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/ElementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GateLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GateLogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GroupTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/GroupTypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rpc/LogRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rpc/LogRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rpc/UserRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rpc/UserRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/vo/AuthorityMenuTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/vo/AuthorityMenuTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/vo/GroupTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/vo/GroupTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/GeneratorBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/GeneratorBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/entity/ColumnEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/entity/ColumnEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/entity/TableEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/entity/TableEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/mapper/GeneratorMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/mapper/GeneratorMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/service/GeneratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/service/GeneratorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/utils/GeneratorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/utils/GeneratorUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/resources/static/js/paging.js" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-generator/src/main/resources/static/js/paging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/authority/PermissionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/authority/PermissionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/log/LogInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/log/LogInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/search/IndexObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/search/IndexObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/user/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-interface/src/main/java/com/github/digital/security/api/vo/user/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/ace-tool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/ace-tool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/ToolBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/ToolBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/config/CloudStorageConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/config/CloudStorageConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/config/LuceneConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/config/LuceneConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/AliyunCloudStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/AliyunCloudStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/CloudStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/CloudStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/OSSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/OSSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/QcloudCloudStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/QcloudCloudStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/QiniuCloudStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/cloud/QiniuCloudStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/constants/OSSConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/constants/OSSConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/controller/OssController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/oss/controller/OssController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/controller/SearchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/LuceneDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/LuceneDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/util/DocumentUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/util/DocumentUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/util/QueryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/lucene/util/QueryUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/service/LuceneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/service/LuceneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/service/impl/LuceneServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/service/impl/LuceneServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/PythonServerBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/PythonServerBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/client/PythonFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/client/PythonFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/rest/PythonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/src/main/java/com/github/digital/security/sidecarclient/rest/PythonController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/ace-common/target/" />
+    <ignored path="$PROJECT_DIR$/ace-sidecar/ace-sidecar-server/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-common/target/" />
+>>>>>>> origin/branchV1
     <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-server/target/" />
-    <ignored path="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/target/" />
+    <ignored path="$PROJECT_DIR$/ace-gate/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/target/" />
+    <ignored path="$PROJECT_DIR$/ace-center/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-client/target/" />
+    <ignored path="$PROJECT_DIR$/ace-sidecar/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-admin/target/" />
     <ignored path="$PROJECT_DIR$/ace-control/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-common/target/" />
-    <ignored path="$PROJECT_DIR$/ace-auth/ace-auth-client/target/" />
-    <ignored path="$PROJECT_DIR$/ace-control/ace-monitor/target/" />
     <ignored path="$PROJECT_DIR$/ace-gate/ace-gateway-v2/target/" />
-    <ignored path="$PROJECT_DIR$/ace-auth/target/" />
+    <ignored path="$PROJECT_DIR$/ace-sidecar/ace-sidecar-client-demo/target/" />
     <ignored path="$PROJECT_DIR$/ace-modules/ace-tool/target/" />
-    <ignored path="$PROJECT_DIR$/ace-common/target/" />
     <ignored path="$PROJECT_DIR$/ace-modules/ace-generator/target/" />
-    <ignored path="$PROJECT_DIR$/ace-sidecar/ace-sidecar-server/target/" />
-    <ignored path="$PROJECT_DIR$/ace-center/target/" />
-    <ignored path="$PROJECT_DIR$/ace-modules/ace-interface/target/" />
-    <ignored path="$PROJECT_DIR$/ace-modules/ace-admin/target/" />
-    <ignored path="$PROJECT_DIR$/ace-sidecar/target/" />
-    <ignored path="$PROJECT_DIR$/ace-gate/target/" />
     <ignored path="$PROJECT_DIR$/ace-control/ace-trace/target/" />
+    <ignored path="$PROJECT_DIR$/ace-modules/ace-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ace-control/ace-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/ace-auth/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,38 +134,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="WebConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/config/WebConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthBootstrap.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AuthBootstrap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/AuthBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="95">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GatewayServerBootstrap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GatewayServerBootstrap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/GatewayServerBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="228">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="106" column="19" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserBiz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/UserBiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/front/info</find>
+      <find>@author wanghaobin</find>
+      <find>@author ace</find>
+      <find>@author yangyongjie</find>
+      <find>@author</find>
+      <find>admin</find>
+      <find>ag_admin_v1</find>
+      <find>generateToken</find>
+      <find>ag_zipkin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@author</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -84,56 +229,65 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-auth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-auth-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -141,119 +295,9 @@
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="digital" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="gate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gate" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-gateway-v2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="gate" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
               <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -262,9 +306,9 @@
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
               <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -274,50 +318,37 @@
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
               <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalSolution-branchV1" type="462c0819:PsiDirectoryNode" />
               <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="ace-tool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalSolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalSolution" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ace-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="digital" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,7 +358,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../goldwindCW/goldwind" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -343,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AdminBootstrap">
+  <component name="RunManager" selected="Spring Boot.AuthBootstrap">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -430,19 +461,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.PythonServerBootstrap" />
-      <item itemvalue="Spring Boot.MonitorBootstrap" />
       <item itemvalue="Spring Boot.SidercarBootstrap" />
       <item itemvalue="Spring Boot.CenterBootstrap" />
       <item itemvalue="Spring Boot.AdminBootstrap" />
+      <item itemvalue="Spring Boot.PythonServerBootstrap" />
       <item itemvalue="Spring Boot.TraceBootstrap" />
+      <item itemvalue="Spring Boot.MonitorBootstrap" />
       <item itemvalue="Spring Boot.AuthBootstrap" />
       <item itemvalue="Spring Boot.GatewayServerBootstrap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GatewayServerBootstrap" />
         <item itemvalue="Spring Boot.AuthBootstrap" />
+        <item itemvalue="Spring Boot.GatewayServerBootstrap" />
       </list>
     </recent_temporary>
   </component>
@@ -451,34 +482,44 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be862e60-14a7-45b8-9e03-a9fbb9dd88f6" name="Default" comment="" />
-      <created>1537258455724</created>
+      <changelist id="ad0f3062-9368-4a1a-b985-bf89c3819216" name="Default" comment="" />
+      <created>1537422442096</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1537258455724</updated>
       <workItem from="1537258458691" duration="1185000" />
+=======
+      <updated>1537422442096</updated>
+      <workItem from="1537422443649" duration="5311000" />
+      <workItem from="1537491023159" duration="1318000" />
+>>>>>>> origin/branchV1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1185000" />
+=======
+    <option name="totallyTimeSpent" value="6629000" />
+>>>>>>> origin/branchV1
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
@@ -495,10 +536,28 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3289689" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> origin/branchV1
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,31 +567,94 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/config/WebConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/AuthBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="190">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/GatewayServerBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/UserBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-gate/ace-gateway-v2/src/main/java/com/github/digital/security/gate/v2/GatewayServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/AdminBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/biz/UserBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-generator/src/main/java/com/github/digital/security/generator/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-admin/src/main/java/com/github/digital/security/admin/rest/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-modules/ace-tool/src/main/java/com/github/digital/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ace-auth/ace-auth-server/src/main/java/com/github/digital/security/auth/AuthBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>

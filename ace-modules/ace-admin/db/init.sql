@@ -1,6 +1,6 @@
 
-CREATE DATABASE ag_admin_v1 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-Use ag_admin_v1;
+CREATE DATABASE digital_admin_v1 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+Use digital_admin_v1;
 /*
  Navicat Premium Data Transfer
 
@@ -8,7 +8,7 @@ Use ag_admin_v1;
  Source Server Type    : MySQL
  Source Server Version : 50718
  Source Host           : localhost
- Source Database       : ag_admin_v1
+ Source Database       : digital_admin_v1
 
  Target Server Type    : MySQL
  Target Server Version : 50718

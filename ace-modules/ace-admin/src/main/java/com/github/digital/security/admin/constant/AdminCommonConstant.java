@@ -3,7 +3,7 @@ package com.github.digital.security.admin.constant;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-17 14:41
  */
 public class AdminCommonConstant {
