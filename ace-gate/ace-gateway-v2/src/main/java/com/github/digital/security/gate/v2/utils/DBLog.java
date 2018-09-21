@@ -12,7 +12,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-07-01 15:28
  */
 @Slf4j

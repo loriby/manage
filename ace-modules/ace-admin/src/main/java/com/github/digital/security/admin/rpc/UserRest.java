@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-21 8:15
  */
 @RestController

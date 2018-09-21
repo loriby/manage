@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-21 8:11
  */
 @FeignClient(value = "ace-admin",configuration = FeignConfiguration.class)

@@ -26,7 +26,7 @@
 package com.github.digital.oss.constants;
 
 /**
- * @author ace
+ * @author
  * @create 2018/3/4.
  */
 public class OSSConstant {

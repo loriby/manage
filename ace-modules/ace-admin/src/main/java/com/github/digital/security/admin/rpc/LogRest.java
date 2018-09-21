@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-07-01 14:39
  */
 @RequestMapping("api")

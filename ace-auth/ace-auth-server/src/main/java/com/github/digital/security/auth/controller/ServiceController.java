@@ -8,7 +8,7 @@ import com.github.digital.security.common.rest.BaseController;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author ace
+ * @author
  * @create 2017/12/26.
  */
 @RestController

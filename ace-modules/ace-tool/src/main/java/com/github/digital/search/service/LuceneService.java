@@ -31,7 +31,7 @@ import com.github.digital.security.common.msg.TableResultResponse;
 
 /**
  * lucense 接口
- * @author ace
+ * @author
  */
 public interface LuceneService {
 

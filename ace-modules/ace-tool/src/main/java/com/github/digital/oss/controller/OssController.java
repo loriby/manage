@@ -38,7 +38,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件上传
  * 
- * @author ace
+ * @author
  */
 @RestController
 @RequestMapping("/oss")

@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * ${DESCRIPTION}
  *
- * @author wanghaobin
+ * @author
  * @create 2017-06-08 11:51
  */
 @RestController

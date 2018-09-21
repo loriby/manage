@@ -33,7 +33,7 @@ import org.springframework.stereotype.Component;
 /**
  * 文件上传Factory
  *
- * @author ace
+ * @author
  */
 @Component
 public class OSSFactory {
