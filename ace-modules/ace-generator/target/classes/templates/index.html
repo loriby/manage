@@ -30,7 +30,7 @@
 							<!--<i class="fa fa-life-bouy" aria-hidden="true"></i>-->
 						<!--</div>-->
 						<a class="logo" style="left: 0;">
-							<span style="font-size: 22px;">AG-Admin</span>
+							<span style="font-size: 22px;">Digital-Admin</span>
 						</a>
 					</div>
 					<ul class="layui-nav admin-header-item" >
@@ -39,26 +39,15 @@
 							<dl class="layui-nav-child" id="menuSys"> <!-- 二级菜单 -->
 							</dl>
 						</li>
-						<li class="layui-nav-item">
-							<a href="http://www.jianshu.com/u/86feb75a6296" target="_blank">关于我</a>
-						</li>
 
 						<li class="layui-nav-item">
 							<a href="javascript:;" class="admin-header-user">
 								<img src="images/0.jpg" />
-								<span >Mr.AG</span>
+								<span >user</span>
 							</a>
 							<dl class="layui-nav-child">
 								<dd>
-									<a href="javascript:;"><i class="fa fa-user-circle" aria-hidden="true"></i> 个人信息</a>
-								</dd>
-								<dd>
 									<a href="javascript:;"><i class="fa fa-gear" aria-hidden="true"></i> 设置</a>
-								</dd>
-								<dd id="lock">
-									<a href="javascript:;">
-										<i class="fa fa-lock" aria-hidden="true" style="padding-right: 3px;padding-left: 1px;"></i> 锁屏 (Alt+L)
-									</a>
 								</dd>
 								<dd>
 									<a href="/logout"><i class="fa fa-sign-out" aria-hidden="true"></i> 注销</a>
@@ -70,9 +59,6 @@
 						<li class="layui-nav-item">
 							<a href="javascript:;"><i class="fa fa-television"></i></a>
 							<dl class="layui-nav-child" id="menuSysMobile"> <!-- 二级菜单 -->
-								<dd>
-									<a href="javascript:;"><i class="fa fa-user-circle" aria-hidden="true"></i> 个人信息</a>
-								</dd>
 								<dd>
 									<a href="/logout"><i class="fa fa-sign-out" aria-hidden="true"></i> 注销</a>
 								</dd>
@@ -131,7 +117,7 @@
 					<div class="admin-header-lock-img">
 						<img src="images/0.jpg"/>
 					</div>
-					<div class="admin-header-lock-name" id="lockUserName">Mr.AG</div>
+					<div class="admin-header-lock-name" id="lockUserName">user</div>
 					<input type="text" class="admin-header-lock-input" value="输入密码解锁.." name="lockPwd" id="lockPwd" />
 					<button class="layui-btn layui-btn-small" id="unlock">解锁</button>
 				</div>
@@ -146,15 +132,6 @@
 					var $ = layui.jquery,
 						layer = layui.layer;
 
-					$('#aboutMe').on('click', function() {
-						layer.open({
-							title: '关于我',
-							maxmin: true,
-							type: 2,
-							content: 'http://www.jianshu.com/u/86feb75a6296',
-							area: ['800px', '500px']
-						});
-                    });
 					$('#about').load('README.md');
 				});
 			</script>

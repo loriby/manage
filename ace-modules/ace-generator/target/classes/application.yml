@@ -10,9 +10,9 @@ spring:
     datasource:
         type: com.alibaba.druid.pool.DruidDataSource
         driverClassName: com.mysql.jdbc.Driver
-        url: jdbc:mysql://localhost:3306/ag_auth?useUnicode=true&characterEncoding=UTF-8
-        username: root
-        password: test1234
+        url: jdbc:mysql://localhost:3306/digital_admin_v1?useUnicode=true&characterEncoding=UTF-8
+        username: solution
+        password: solution123
     jackson:
         time-zone: GMT+8
         date-format: yyyy-MM-dd HH:mm:ss

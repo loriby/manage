@@ -4,7 +4,7 @@ Use digital_admin_v1;
 /*
  Navicat Premium Data Transfer
 
- Source Server         : ag-admin
+ Source Server         : test
  Source Server Type    : MySQL
  Source Server Version : 50718
  Source Host           : localhost
